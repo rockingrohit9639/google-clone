@@ -1,6 +1,6 @@
 # Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This app is created using ReactJs. You can search for the queries in exaxtly the same way as you do in google.
 
 ## Available Scripts
 
